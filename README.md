@@ -4,6 +4,7 @@ A modern End-to-End (E2E) test automation framework built with Playwright and Ty
 This project is designed to provide scalable, maintainable, and reliable automated testing for web applications.
 
 📌 Features
+
 ✅ Cross-browser testing (Chromium, Firefox, WebKit)
 
 ✅ TypeScript support
