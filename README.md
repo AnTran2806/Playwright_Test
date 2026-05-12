@@ -5,15 +5,25 @@ This project is designed to provide scalable, maintainable, and reliable automat
 
 📌 Features
 ✅ Cross-browser testing (Chromium, Firefox, WebKit)
+
 ✅ TypeScript support
+
 ✅ Page Object Model (POM)
+
 ✅ Parallel test execution
+
 ✅ Automatic waiting
+
 ✅ Screenshot capture on failure
+
 ✅ Video recording
+
 ✅ Trace Viewer support
+
 ✅ HTML test reports
+
 ✅ CI/CD integration ready
+
 🛠 Tech Stack
 Playwright
 TypeScript
